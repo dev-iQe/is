@@ -9,7 +9,9 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.mystore.storesigner</string>
 	<key>CFBundleName</key>
-	<string>StoreSigner</string>
+	<string>i Cerf</string>
+	<key>CFBundleDisplayName</key>
+	<string>i Cerf</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
